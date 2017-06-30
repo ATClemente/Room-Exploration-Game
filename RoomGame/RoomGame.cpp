@@ -7,7 +7,7 @@
 **				ones for the final room.
 *****************************************************************************/
 
-//This comment is to indicate this project was commited to GitHub
+//This comment is to indicate this project was committed to GitHub
 //on 29 June 2017 at 10:47 PM
 
 #include "Player.hpp"
