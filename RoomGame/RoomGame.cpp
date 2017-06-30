@@ -7,6 +7,8 @@
 **				ones for the final room.
 *****************************************************************************/
 
+//This comment is to indicate this project was commited to GitHub
+//on 29 June 2017 at 10:47 PM
 
 #include "Player.hpp"
 #include "WorldObject.hpp"
